@@ -4,4 +4,4 @@ Teammates collaboration on projects, chat, assign each other tasks, filtering ba
 
 Firebase authentication + Firebase storage + Firestore rules + image uploads
 
-Porject is deployed to Firebase: project-management-site-9a0cb.web.app
+Porject is deployed to Firebase: [project-management-site-9a0cb.web.app](https://project-management-site-9a0cb.web.app)
