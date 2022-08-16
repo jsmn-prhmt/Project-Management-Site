@@ -4,7 +4,7 @@
 
 - Firebase authentication + Firebase storage + Firestore rules + image uploads
 
-- Porject is deployed to Firebase: [project-management-site-9a0cb.web.app](https://project-management-site-9a0cb.web.app)
+- Porject is deployed to Firebase and live at : [project-management-site-9a0cb.web.app](https://project-management-site-9a0cb.web.app)
 
 
 <img width="1428" alt="Screenshot 2022-08-14 at 09 47 56" src="https://user-images.githubusercontent.com/52753698/184527538-dc883f5a-3989-4094-b6f7-7da6a724712d.png">
